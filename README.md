@@ -2,7 +2,7 @@
 
 &gt; **Cleaning & Standardizing an Audible Audiobook Dataset Using Excel Power Query** ⚡
 
-![Project Banner](screenshots/cover.png)
+Project_Preview.png
 
 [![Tools](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 [![Skills](https://img.shields.io/badge/Skills-Power%20Query%20%7C%20Data%20Cleaning%20%7C%20ETL-orange)](https://github.com/your-username/audible-data-cleaning-powerquery)
