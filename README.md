@@ -164,9 +164,9 @@ Same issues as the author column.
 **Rohit Nair** 👋
 🎓 Aspiring Data Analyst | Excel · Power Query · Data Cleaning
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
-- ✉️ your.email@example.com
+- 🔗 [LinkedIn](www.linkedin.com/in/rohit-nair-hyperlink)
+- 🐙 [GitHub](https://github.com/rohitnair-ba)
+- ✉️ rohit.nair995@gmail.com
 
 ---
 
