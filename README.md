@@ -139,7 +139,7 @@ Same issues as the author column.
 ![Name Casing](images/Q1.1.png)
 
 ### ✂️ Splitting Combined Authors
-![Author Split](images/Q2.1.png)
+![Author Split](images/Q2.2.png)
 
 ### ⏱️ Building the Duration Column
 ![Duration](images/Q4.5.png)
