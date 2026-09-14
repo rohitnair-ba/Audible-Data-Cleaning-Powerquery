@@ -136,16 +136,16 @@ Same issues as the author column.
 ## 📸 Screenshots
 
 ### 🔤 Before → After: Name Casing
-![Name Casing](screenshots/task01-name-casing.png)
+![Name Casing](images/Q1.1.png)
 
 ### ✂️ Splitting Combined Authors
-![Author Split](screenshots/task02-author-split.png)
+![Author Split](images/Q2.1.png)
 
 ### ⏱️ Building the Duration Column
-![Duration](screenshots/task04-duration.png)
+![Duration](images/Q4.5.png)
 
 ### ✅ Project Complete
-![Complete](screenshots/project-complete.png)
+
 
 ---
 
