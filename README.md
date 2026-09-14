@@ -142,7 +142,7 @@ Same issues as the author column.
 ![Author Split](images/Q2.2.png)
 
 ### ⏱️ Building the Duration Column
-![Duration](images/Q4.5.png)
+![Duration](images/Q4.6.png)
 
 
 
