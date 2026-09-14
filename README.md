@@ -144,7 +144,7 @@ Same issues as the author column.
 ### ⏱️ Building the Duration Column
 ![Duration](images/Q4.5.png)
 
-### ✅ Project Complete
+
 
 
 ---
