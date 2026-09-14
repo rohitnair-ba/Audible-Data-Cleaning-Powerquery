@@ -1,6 +1,6 @@
 # 🎧 Audible Data Cleaning Project
 
-&gt; **Cleaning & Standardizing an Audible Audiobook Dataset Using Excel Power Query** ⚡
+**Cleaning & Standardizing an Audible Audiobook Dataset Using Excel Power Query** ⚡
 
 ![Project Banner](Project_Preview.png)
 
