@@ -166,7 +166,7 @@ Same issues as the author column.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-nair-hyperlink/)
 - 🐙 [GitHub](https://github.com/rohitnair-ba)
-- ✉️ [rohit.nair995@gmail.com](mailto:rohit.nair995@gmail.com)
+- ✉️ rohit.nair995@gmail.com
 
 ---
 
